@@ -4,7 +4,7 @@ This repository contains the backend implementation of the **Threat Detection Sy
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python 3.10+
 - Django 5.2
@@ -90,7 +90,7 @@ backend/
 ## Deployment
 
 The project is hosted on **Render** at:  
-🔗 [https://backend-f1tj.onrender.com](https://backend-f1tj.onrender.com)
+ [https://backend-sc9k.onrender.com](https://backend-f1tj.onrender.com)
 
 ---
 
@@ -102,7 +102,7 @@ Cybersecurity and Software Engineering Enthusiast
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under MIT.
 
